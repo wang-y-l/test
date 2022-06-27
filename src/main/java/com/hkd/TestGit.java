@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("git 2");
         System.out.println("git 3");
         System.out.println("master conflict");
+        System.out.println("hot-fix test conflict");
     }
 }
