@@ -13,5 +13,6 @@ public class TestGit {
         System.out.println("hot-fix test conflict");
         System.out.println("我是被推送的内容");
         System.out.println("我是pull的内容");
+        System.out.println("我是gitee 提交的内容");
     }
 }
